@@ -1,7 +1,19 @@
 {
-  "name": "jquery-cycle2",
+  "name": "@nsoft/jquery-cycle2",
   "version": "2.1.6",
-  "homepage": "http://jquery.malsup.com/cycle2",
+  "homepage": "https://github.com/seven-cd/cycle2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seven-cd/cycle2"
+  },
+  "keywords": [
+    "jquery",
+    "scrollbar",
+    "angular",
+    "textarea"
+  ],
+  "author": "malsup",
+  "license": "MIT",
   "engines": {
     "node": ">= 0.6.0"
   },
