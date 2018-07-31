@@ -1,10 +1,13 @@
 {
   "name": "@nsoft/jquery-cycle2",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "homepage": "https://github.com/seven-cd/cycle2",
   "repository": {
     "type": "git",
     "url": "https://github.com/seven-cd/cycle2"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "jquery",
